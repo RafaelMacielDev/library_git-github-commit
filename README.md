@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="justify">
-Academic demonstration of uploading files from the development environment through Git via CMD to the GitHub repository. Credits for Digital Innovation One's Git and GitHub module.
+Academic demonstration of uploading files from the development environment via Git via CMD to the GitHub repository. Credits for the you tube channel I am Crys.
 </h3>
 
 <br>
