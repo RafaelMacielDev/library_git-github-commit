@@ -35,7 +35,6 @@ This project was developed with the following technologies:
 - git remote add origin "link repository"
 - git push -u origin master
 <br>
-
 ---
 
 Made with 💜 by Rafael Maciel
